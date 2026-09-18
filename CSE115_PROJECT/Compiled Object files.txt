@@ -1,0 +1,27 @@
+Compiled Object files
+
+*.slo
+*.lo
+*.o
+*.obj
+
+Compiled Executables
+
+*.exe
+*.out
+*.app
+game
+LostInAcademia
+
+Game Save Data (Keeps local user passwords/saves off GitHub)
+
+users.dat
+
+VS Code specific files
+
+.vscode/
+
+OS specific hidden files
+
+.DS_Store
+Thumbs.db
